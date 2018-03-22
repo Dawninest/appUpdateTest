@@ -11,7 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Dawninest/appUpdateTest/master/moffice.ipa/string>
+					<string>https://test.secml.cn/download/wjt/ios/wjt.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://test.secml.cn/download/wjt/ic_launcher02.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://test.secml.cn/download/wjt/ic_launcher01.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +51,11 @@
 【优化】优化密保设置的操作，提示正在加载
 				</string>
 				<key>size</key>
-				<string>1.5T</string>
+				<string>9.3M</string>
 				<key>forceUpdate</key>
 				<string>false</string>
 				<key>forceUpdateVersion</key>
-				<string>2.1.0.0.4</string>
+                <string>2.1.0.0.4</string>
 			</dict>
 		</dict>
 	</array>
