@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>协同办公</string>
 				<key>bundle-version</key>
-				<string>1.5</string>
+				<string>1.5.0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -51,7 +51,7 @@
 				<key>forceUpdate</key>
 				<string>false</string>
 				<key>forceUpdateVersion</key>
-                <string>2.1.0.0.4</string>
+				<string>2.1.0.0.4</string>
 			</dict>
 		</dict>
 	</array>
