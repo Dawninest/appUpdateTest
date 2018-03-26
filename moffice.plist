@@ -13,37 +13,21 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/Dawninest/appUpdateTest/master/moffice.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://test.secml.cn/download/wjt/ic_launcher02.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://test.secml.cn/download/wjt/ic_launcher01.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>协同办公</string>
 				<key>bundle-version</key>
-				<string>1.5.0.0.1</string>
+				<string>1.5.0.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>协同办公</string>
 				<key>description</key>
 				<string>
-【新增】推送功能完成
-【新增】更新功能完成
+【优化】顶部statusBar颜色变化
+【优化】创建群及群众详情错误处理
 【优化】界面优化及Bug处理
 				</string>
 				<key>size</key>
