@@ -13,11 +13,27 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/Dawninest/appUpdateTest/master/moffice.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/Dawninest/appUpdateTest/master/coap.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/Dawninest/appUpdateTest/master/coap.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>协同办公</string>
+				<string>com.30san.moffice</string>
 				<key>bundle-version</key>
 				<string>1.5.0.0.2</string>
 				<key>kind</key>
