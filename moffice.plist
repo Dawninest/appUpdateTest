@@ -35,19 +35,20 @@
 				<key>bundle-identifier</key>
 				<string>com.30san.moffice</string>
 				<key>bundle-version</key>
-				<string>1.5.0.0.2</string>
+				<string>1.5.0.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>协同办公</string>
 				<key>description</key>
 				<string>
-【优化】顶部statusBar颜色变化
-【优化】创建群及群众详情错误处理
+【优化】消息发送异常处理
+【优化】群组创建的异常处理
+【优化】系统消息模块beta
 【优化】界面优化及Bug处理
 				</string>
 				<key>size</key>
-				<string>9.3M</string>
+				<string>7.9M</string>
 				<key>forceUpdate</key>
 				<string>false</string>
 				<key>forceUpdateVersion</key>
