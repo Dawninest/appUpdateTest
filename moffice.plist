@@ -35,16 +35,15 @@
 				<key>bundle-identifier</key>
 				<string>com.30san.moffice</string>
 				<key>bundle-version</key>
-				<string>1.5.0.0.3</string>
+				<string>1.5.0.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>协同办公</string>
 				<key>description</key>
 				<string>
-【优化】消息发送异常处理
-【优化】群组创建的异常处理
-【优化】系统消息模块beta
+【优化】视频会话[beta]
+【优化】系统消息模块[beta]
 【优化】界面优化及Bug处理
 				</string>
 				<key>size</key>
