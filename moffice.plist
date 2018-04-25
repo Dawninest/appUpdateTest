@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.30san.moffice</string>
 				<key>bundle-version</key>
-				<string>1.5.0.0.5</string>
+				<string>1.5.0.0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -43,7 +43,7 @@
 				<key>description</key>
 				<string>
 【优化】视频会话稳定性优化
-【优化】系统消息模块调整
+【优化】增加点击推送跳转相关功能
 【优化】界面优化及Bug处理
 				</string>
 				<key>size</key>
